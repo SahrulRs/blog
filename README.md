@@ -1,4 +1,4 @@
-# blog
+# blog with HTML/CSS & Javascript
 Demo : https://blog-n4cdsqgi-sahrulrs.4everland.app/
 
 How To use?
